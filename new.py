@@ -1,1 +1,1 @@
-print('hello Basket new')
+print('hello Basket delete')
